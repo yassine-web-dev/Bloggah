@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Bloggah/static/css/main.e5a462b8.css",
+    "main.js": "/Bloggah/static/js/main.21468363.js",
+    "index.html": "/Bloggah/index.html",
+    "main.e5a462b8.css.map": "/Bloggah/static/css/main.e5a462b8.css.map",
+    "main.21468363.js.map": "/Bloggah/static/js/main.21468363.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a462b8.css",
+    "static/js/main.21468363.js"
+  ]
+}
